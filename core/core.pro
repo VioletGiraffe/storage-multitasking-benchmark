@@ -56,3 +56,4 @@ INCLUDEPATH += \
 	../qtutils/
 
 include (benchmark/benchmark.pri)
+include (benchmarkedfile/benchmarkedfile.pri)
